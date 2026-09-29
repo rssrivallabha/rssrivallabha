@@ -62,13 +62,6 @@ A local fuzzing platform that uses **AST analysis** to extract constraints and g
 
 ---
 
-### 🏢 [Ideavin Prime Realty](https://github.com/rssrivallabha/ideavin-website)
-**Production-ready real-estate website**
-
-A responsive marketing website built with **Next.js, TypeScript and a custom design system**, with SEO, structured data, animations and deployment support.
-
----
-
 ## 📚 Currently Learning
 
 - Generative AI & AI-powered applications
@@ -82,8 +75,12 @@ A responsive marketing website built with **Next.js, TypeScript and a custom des
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rssrivallabha&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rssrivallabha&layout=compact&hide_border=true&langs_count=8" height="165" />
+  <a href="https://github.com/rssrivallabha">
+    <img src="https://github-readme-stats.vercel.app/api?username=rssrivallabha&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=86400" height="165" />
+  </a>
+  <a href="https://github.com/rssrivallabha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rssrivallabha&layout=compact&hide_border=true&langs_count=8&theme=transparent&cache_seconds=86400" height="165" />
+  </a>
 </p>
 
 ---
@@ -91,11 +88,11 @@ A responsive marketing website built with **Next.js, TypeScript and a custom des
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/srivallabha-r-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/srivallabha-rs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:srivallabha@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:rssrivallabha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
